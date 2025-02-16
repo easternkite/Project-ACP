@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template.toolWindow
+package com.github.easternkite.projectacp.toolWindow
 
 import com.intellij.openapi.project.Project
 import com.intellij.openapi.wm.ToolWindow
